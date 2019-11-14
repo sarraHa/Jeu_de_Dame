@@ -1,6 +1,9 @@
 
 	__Réalisation d'un jeu de Dame en C__
    
+![alt text](img.png)
+
+
 
     *Compilation et exécution du programme :
 
